@@ -1,0 +1,9 @@
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+
+pixel (for download free image)
+
+
+devui.io (take free card)
